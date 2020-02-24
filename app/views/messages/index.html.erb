@@ -1,0 +1,11 @@
+<div class="booyah-box col-10 offset-1">
+  <h1> Welcome to my web app!</h1>
+  <hr />
+  <% @messages.each do |message| %>
+    <div>
+      <p><%= message.description %></p><br />
+    </div>
+
+    <hr />
+  <% end %>
+</div>

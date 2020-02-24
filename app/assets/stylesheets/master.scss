@@ -1,0 +1,25 @@
+@import "bootstrap";
+
+.clear {
+  clear: both;
+}
+
+.slogan {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-style: italic;
+  color: red;
+}
+
+header {
+  border: 9px solid red;
+  background-color: cyan;
+  margin-bottom: 0;
+}
+
+hr {
+  clear:both;
+}
+
+.logo {
+  color: red;
+}
